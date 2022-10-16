@@ -7,10 +7,15 @@
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
  * Variables
+ Es aquella string que cuenta con un valor determinado o que se le ha asignado un valor
  * Strings
+ Es una cadena de caracteres
  * Funciones (argumentos, `return`)
+ Para la lectura de la programacion y retorna un valor
  * Declaraciones `if`
+ Crea condicionales
  * Valores booleanos (`true`, `false`)
+Aquel valor que solo da como respuesta 2 valores, verdadero o falso
 
 2. Instalar Node y NPM. NPM se incluye con Node. <https://nodejs.org/en/download/>
 
