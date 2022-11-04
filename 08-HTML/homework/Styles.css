@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://images.pexels.com/photos/8892/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    /* https://carontestudio.com/blog/como-poner-una-imagen-de-fondo-en-html/#:~:text=Para%20a%C3%B1adir%20una%20imagen%20de,jpg%2F%C2%BB). */
+}
+h1{
+    color: lightslategray;
+}   
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: lightcyan;
+    padding: 50px;
+    border: 100px solid aliceblue;
+}
+#spanId{
+    font-size: 18px;
+}
